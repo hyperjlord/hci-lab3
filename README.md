@@ -2,7 +2,7 @@
 ## 如何运行
 环境python 3.8
 ```bash
-cd lab3
+cd hci-lab3
 pip install -r requirements.txt
 python main.py
 ```
